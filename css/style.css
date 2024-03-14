@@ -1,0 +1,22 @@
+body {
+    color: black;
+    background: url("../img/fondo.jpg");
+    background-color: rgb(235, 222, 240);
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.links-container {
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+     
+    margin-bottom: 100px;
+    background-attachment: fixed;    
+
+}
